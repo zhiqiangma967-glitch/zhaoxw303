@@ -1,0 +1,4 @@
+<template>
+<section class="hero"><div class="hero-copy"><div class="eyebrow">ROOTED IN NATURE · SERVED WITH HEART</div><h1>把日子，<br>过成<em>好食光。</em></h1><p class="desc">循着四季的脚步，寻找食材本来的味道。<br>在禾间，留一点时间，认真吃一顿饭。</p><div class="hero-actions"><a class="book" href="#menu">探索时令菜单 <span class="arrow">↗</span></a><a class="text-link" href="#story">认识禾间 ↗</a></div><div class="hero-bottom"><span>当季鲜食 / 用心手作</span><span>一蔬一饭，皆有来处</span></div></div><div class="hero-photo"><img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1400&q=85" alt="以新鲜蔬菜与时令食材制作的丰盛料理" fetchpriority="high"><span class="vertical">应时而食 · 自然有味</span><div class="stamp">A TASTE OF<b>四季</b>SEASONAL GOODNESS</div><span class="photo-label">THE SEASON'S FINEST — 01 / 03</span></div></section>
+<div class="values"><div><span>✳</span>顺时而食</div><div><span>♧</span>甄选新鲜食材</div><div><span>◌</span>每日用心手作</div><div><span>↗</span>让美味回归自然</div></div>
+</template>
