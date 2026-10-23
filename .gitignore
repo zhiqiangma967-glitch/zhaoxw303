@@ -1,3 +1,44 @@
+# Dependencies
 node_modules/
+
+# Build output and test reports
 dist/
+dist-ssr/
+coverage/
+playwright-report/
+test-results/
+
+# Tool caches and local runtime state
+.vite/
+.cache/
+.eslintcache
+*.tsbuildinfo
+.sites-runtime/
+
+# Logs and temporary files
+logs/
+*.log
+*.pid
+*.pid.lock
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Local environment and secrets; retain shareable examples
+.env
+.env.*
+!.env.example
+!.env.*.example
 *.local
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Generated Site deployment archives
+/hejian*.zip
